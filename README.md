@@ -9,7 +9,6 @@ gh auth login
 ```
 gh repo clone <github-user>/<repo-name>
 # for example
-#gh repo clone tOSuser/nmtools
+#gh repo clone hoss-java/lessons
 ```
 
-* 
