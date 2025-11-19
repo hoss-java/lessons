@@ -2,7 +2,7 @@
 
 2. Calculate Total and Average Marks
 
-```pseudocode
+```pseudocode-plain
 START
   READ A, B , C
   total = A + B + C
