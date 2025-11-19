@@ -2,7 +2,7 @@
 
 2. Calculate Total and Average Marks
 
-```
+```pseudocode
 START
   READ A, B , C
   total = A + B + C
@@ -22,7 +22,7 @@ flowchart TD
 ```
 ---
 3. Display Multiplication Table
-```
+```pseudocode
 START
   READ n
   i = 1
@@ -46,7 +46,7 @@ flowchart TD
 ```
 ---
 4. Positive, Negative, or Zero Check
-```
+```pseudocode
 START
   READ n
   IF n > 0 THEN
@@ -72,7 +72,7 @@ flowchart TD
 ```
 ---
 5. Simple Interest Calculator
-```
+```pseudocode
 START
   READ P
   READ R
@@ -90,7 +90,7 @@ flowchart TD
 ```
 ---
 6. Average Temperature Calculation
-```
+```pseudocode
 START
   total = 0
   i = 1
@@ -117,7 +117,7 @@ flowchart TD
 ```
 ---
 7. Calculate Area of a Rectangle
-```
+```pseudocode
 START
   READ L
   READ W
@@ -134,7 +134,7 @@ flowchart TD
 ```
 ---
 8. Determine Pass or Fail
-```
+```pseudocode
 START
   READ avg
   IF avg >= 50 THEN
@@ -155,7 +155,7 @@ flowchart TD
 ```
 ---
 9. Calculate Factorial of a Number
-```
+```pseudocode
 START
   READ n
   fact = 1
@@ -180,7 +180,7 @@ flowchart TD
 ```
 ---
 10. Calculate Discount on Purchase
-```
+```pseudocode
 START
   READ purchase_amount
   IF purchase_amount > 1000 THEN
