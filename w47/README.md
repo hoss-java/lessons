@@ -2,7 +2,7 @@
 
 2. Calculate Total and Average Marks
 
-```pseudocode-plain
+```python
 START
   READ A, B , C
   total = A + B + C
