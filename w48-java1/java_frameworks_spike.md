@@ -576,7 +576,7 @@ Containers and example codes created throght this spike can be found [here](http
 >    -DarchetypeGroupId=org.apache.tomcat.maven \
 >    -DarchetypeArtifactId=tomcat-maven-archetype \
 >    -DarchetypeVersion=2.3 \
->    -DgroupId=com.nexttop \
+>    -DgroupId=com.hossjava \
 >    -DartifactId=my-webapp \
 >    -DinteractiveMode=false
 >```
@@ -759,11 +759,11 @@ Containers and example codes created throght this spike can be found [here](http
 * Here (https://www.codeburps.com/category/spring-boot) I found some simple example that I could follow how they work
 * The first example ([How to create a basic Spring 6 project using Maven](https://www.codeburps.com/post/basic-spring-project-using-maven)) creates a simple spring+maven project that prints a simple text on screen, the example is used an Employee class that is improved on there example to work with REST and databases.
 > *  source code can be found here https://github.com/nkchauhan003/spring-demo
-> *  The guide uses a simple `Hello world` Maven project template (not Spring(s) templates) which is good to understand how to create a basic Spring project (**OBS!** I changed the `groupId` from `com.tb` to `com.nexttop`)
+> *  The guide uses a simple `Hello world` Maven project template (not Spring(s) templates) which is good to understand how to create a basic Spring project (**OBS!** I changed the `groupId` from `com.tb` to `com.hossjava`)
 >>```
 >>mvn archetype:generate \
 >>    -DarchetypeArtifactId=maven-archetype-quickstart \
->>    -DgroupId=com.nexttop \
+>>    -DgroupId=com.hossjava \
 >>    -DartifactId=my-springapp \
 >>    -DinteractiveMode=false
 >>```
@@ -805,7 +805,7 @@ Containers and example codes created throght this spike can be found [here](http
 >>public class App {
 >>    public static void main(String[] args) {
 >>        AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
->>        applicationContext.scan("com.nexttop");
+>>        applicationContext.scan("com.hossjava");
 >>
 >>        var employeeBean = (Employee) applicationContext.getBean("employee");
 >>        System.out.println("Employee Name: " + employeeBean.getName());
@@ -831,7 +831,7 @@ Containers and example codes created throght this spike can be found [here](http
 >>         </execution>
 >>       </executions>
 >>       <configuration>
->>         <mainClass>com.nexttop.App</mainClass>
+>>         <mainClass>com.hossjava.App</mainClass>
 >>       </configuration>
 >>     </plugin>
 >>```
