@@ -1,14 +1,20 @@
-# Working with github
+# Java course
 
-* To login to git hub :
-```
-gh auth login
-```
+**Deck Board** -> https://github.com/hoss-java/lessons/blob/main/DECK.md
 
-* To clone a repository :
-```
-gh repo clone <github-user>/<repo-name>
-# for example
-#gh repo clone hoss-java/lessons
-```
+## W44 - git
+[README](https://github.com/hoss-java/lessons/blob/main/w44/README.md)
+* Creating a github account
+* Creating the first repository
 
+## W45 - Html and ss
+[README](https://github.com/hoss-java/lessons/blob/main/w45-html_css/README.md)
+
+## W46
+[README](#)
+
+## W47 - Flowcharts
+[README](https://github.com/hoss-java/lessons/blob/main/w47-flowcharts/README.md)
+
+## W48 - Java1
+[README](https://github.com/hoss-java/lessons/blob/main/w48-java1/README.md)
