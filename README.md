@@ -1,6 +1,5 @@
 # Java course
-
-**Deck Board** -> https://github.com/hoss-java/lessons/blob/main/DECK.md
+[**Deck Board**](https://github.com/hoss-java/lessons/blob/main/DECK.md)
 
 ## W44 - git
 [README](https://github.com/hoss-java/lessons/blob/main/w44/README.md)
