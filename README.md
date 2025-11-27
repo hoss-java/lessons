@@ -17,3 +17,5 @@
 
 ## W48 - Java1
 [README](https://github.com/hoss-java/lessons/blob/main/w48-java1/README.md)
+
+* [Java fremeworks (a spike)](https://github.com/hoss-java/lessons/blob/main/w48-java1/java_frameworks_spike.md)

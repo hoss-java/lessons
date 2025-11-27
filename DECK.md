@@ -10,27 +10,47 @@ Template: index
 
 ## Week 48
 
-## 48-001
+### 48-001
+>#### Goal : Add README and DECK
+>The goal of this card is to structure this repo.
+>It also aims to add a deck file to the repo.
+>
+>#### DOD  (definition of done):
+>Hooks files are added to the local repo.
+>A Deck file is created for the progect
+>
+>#### TODO :
+>- [x] 1. Add git hooks' scripts
+>- [x] 2. Updated Deck path
+>- [x] 3. Add a deck file to the repo
+>
+>#### Reports :
+>* 
+>
+>#### Steps to test and debugging:
+>- [] 1.
+>
+>#### References :
+>* []()
+---
 
-### Goal : Add README and DECK
-The goal of this card is to structure this repo.
-It also aims to add a deck file to the repo.
-
-### DOD  (definition of done):
-Hooks files are added to the local repo.
-A Deck file is created for the progect
-
-### TODO :
-- [x] 1. Add git hooks' scripts
-- [x] 2. Updated Deck path
-- [x] 3. Add a deck file to the repo
-
-### Reports :
-* 
-
-### Steps to test and debugging:
-- [] 1.
-
-### References :
-* []()
+### 48-002
+>#### Goal : Add java frameworks spike and updated README
+>The goal of this card is to upload and commit the Java frameworks spike file
+>
+>#### DOD  (definition of done):
+>The spike is pushed and README is updated
+>
+>#### TODO :
+>- [x] 1. Review the spike file before committing 
+>- [x] 2. Update DECK and README
+>
+>#### Reports :
+>* 
+>
+>#### Steps to test and debugging:
+>- [] 1.
+>
+>#### References :
+>* []()
 ---
