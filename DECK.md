@@ -11,7 +11,10 @@ Template: index
 ## Week 48
 
 ### 48-001
->#### Goal : Add README and DECK
+#### Add README and DECK ![status](https://img.shields.io/badge/status-DONE-brightgreen)
+<details>
+    <summary>Details</summary>
+
 >The goal of this card is to structure this repo.
 >It also aims to add a deck file to the repo.
 >
@@ -32,10 +35,13 @@ Template: index
 >
 >#### References :
 >* []()
----
+</details>
 
 ### 48-002
->#### Goal : Add java frameworks spike and updated README
+#### Add java frameworks spike and updated README ![status](https://img.shields.io/badge/status-DONE-brightgreen)
+<details>
+    <summary>Details</summary>
+
 >The goal of this card is to upload and commit the Java frameworks spike file
 >
 >#### DOD  (definition of done):
@@ -53,4 +59,4 @@ Template: index
 >
 >#### References :
 >* []()
----
+</details>
